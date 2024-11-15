@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TTHCM</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div id="controls">
+            <button onclick="startExam('data/bai1.json')">Bắt đầu bài kiểm tra cá nhân</button>
+            <button onclick="startExamForAll()">Bắt đầu bài kiểm tra tổng hợp</button>
+        </div>
+
+        <div id="timer" class="timer">Thời gian còn lại: 45:00</div>
+        <div id="questions"></div>
+        
+        <p id="early-submit-info" style="display: none;">Bạn đã trả lời tất cả câu hỏi. Có thể nộp bài ngay bây giờ!</p>
+        <button id="submit-btn" onclick="submitExam()" style="display: none;">Nộp bài</button>
+
+        <div id="result" style="display: none;">
+            <h2>Kết quả bài kiểm tra</h2>
+            <p id="score"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
