@@ -141,7 +141,7 @@
       { "id": "3", "value": "Vật chất và tinh thần" },
       { "id": "4", "value": "Kinh tế và văn hóa" }
     ],
-    "correct_answer": 4
+    "correct_answer": 1
   },
   {
     "id": 13,
@@ -468,18 +468,7 @@
       ],
       "correct_answer": 2
     },
-    {
-      "id": 40,
-      "question_direction": "Theo Hồ Chí Minh, với tư cách là những động lực thúc đẩy tiến trình cách mạng xã hội chủ nghĩa, thì những vấn đề gì không thể tách rời nhau?",
-      "question_type": "radio",
-      "answer_option": [
-        { "id": "1", "value": "Vật chất và tinh thần" },
-        { "id": "2", "value": "Kinh tế và văn hóa" },
-        { "id": "3", "value": "Nội lực và ngoại lực" },
-        { "id": "4", "value": "Lợi ích của dân và dân chủ của dân" }
-      ],
-      "correct_answer": 3
-    },
+  
     {
       "id": 41,
       "question_direction": "Theo Hồ Chí Minh, lực lượng mạnh nhất trong tất cả các lực lượng góp phần đưa sự nghiệp cách mạng xã hội chủ nghĩa đi đến thành công là gì?",
