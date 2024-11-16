@@ -119,18 +119,7 @@
       ],
       "correct_answer": "4"
     },
-    {
-      "id": 11,
-      "question_direction": "Lựa chọn cụm từ đúng điền vào chỗ trống trong câu nói của Hồ Chí Minh: “Học để làm việc, …., học để làm cán bộ”",
-      "question_type": "radio",
-      "answer_option": [
-        { "id": "1", "value": "Làm người" },
-        { "id": "2", "value": "Làm cách mạng" },
-        { "id": "3", "value": "Có tri thức" },
-        { "id": "4", "value": "Phục vụ nhân dân." }
-      ],
-      "correct_answer": "4"
-    },
+    
     {
       "id": 12,
       "question_direction": "Cụm từ nào điền vào chỗ trống trong câu nói của Hồ Chí Minh: “Dễ trăm lần không …, cũng chịu; khó vạn lần …, liệu cũng xong”?",
