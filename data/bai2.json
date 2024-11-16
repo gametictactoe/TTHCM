@@ -829,18 +829,7 @@
         ],
         "correct_answer": 2
     },
-    {
-        "id": 72,
-        "question_direction": "Trong quá trình đi lên xây dựng chủ nghĩa xã hội ở Việt Nam hiện nay, nhân tố nào được coi là nguồn động lực to lớn của đất nước?",
-        "question_type": "radio",
-        "answer_option": [
-            { "id": "1", "value": "Chủ nghĩa yêu nước" },
-            { "id": "2", "value": "Tinh thần nhân ái, khoan dung" },
-            { "id": "3", "value": "Tinh thần cần cù, dũng cảm" },
-            { "id": "4", "value": "Niềm tự hào dân tộc" }
-        ],
-        "correct_answer": 4
-    },
+    
     {
         "id": 73,
         "question_direction": "Những giá trị văn hóa phương Tây nào mà Hồ Chí Minh chỉ ra vẫn tiếp tục được kế thừa trong việc xây dựng nhà nước xã hội chủ nghĩa Việt Nam hiện nay?",
