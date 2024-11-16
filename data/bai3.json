@@ -95,18 +95,7 @@
     ],
     "correct_answer": 4
   },
-  {
-    "id": 9,
-    "question_direction": "Theo Hồ Chí Minh, lực lượng tổng hợp để giải phóng dân tộc bao gồm: ",
-    "question_type": "radio",
-    "answer_option": [
-      { "id": "1", "value": "Nông dân" },
-      { "id": "2", "value": "Công nhân, nông dân, trí thức" },
-      { "id": "3", "value": "Công nhân" },
-      { "id": "4", "value": "Lực lượng đại đoàn kết toàn dân tộc" }
-    ],
-    "correct_answer": 4
-  },
+
   {
     "id": 10,
     "question_direction": "Vì sao Quốc tế cộng sản có lúc xem nhẹ vai trò của cách mạng thuộc địa, coi cách mạng thuộc địa phụ thuộc vào cách mạng vô sản ở chính quốc và không ủng hộ quan điểm của Hồ Chí Minh? ",
