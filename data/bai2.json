@@ -1012,18 +1012,6 @@
               { "id": "4", "value": "Thời kỳ 1920-1930" }
           ],
           "correct_answer": 4
-      },
-      {
-          "id": 91,
-          "question_direction": "Chọn câu trả lời đúng nhất với tư tưởng Hồ Chí Minh:",
-          "question_type": "radio",
-          "answer_option": [
-              { "id": "1", "value": "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta" },
-              { "id": "2", "value": "Tư tưởng Hồ Chí Minh là sự áp dụng chủ nghĩa Mác - Lênin vào điều kiện nước ta" },
-              { "id": "3", "value": "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta" },
-              { "id": "4", "value": "Tư tưởng Hồ Chí Minh là kết quả của sự phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta" }
-          ],
-          "correct_answer": 3
-      } 
+      }
 ]
     
