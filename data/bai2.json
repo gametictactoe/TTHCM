@@ -395,18 +395,6 @@
         ],
         "correct_answer": 4
     },
-    {
-        "id": 34,
-        "question_direction": "Nguyễn Ái Quốc viết \"Bản án chế độ thực dân Pháp\" được xuất bản vào thời gian nào?",
-        "question_type": "radio",
-        "answer_option": [
-            { "id": "1", "value": "Năm 1925" },
-            { "id": "2", "value": "Năm 1920" },
-            { "id": "3", "value": "Năm 1930" },
-            { "id": "4", "value": "Năm 1927" }
-        ],
-        "correct_answer": 1
-    },
     
       {
           "id": 35,
@@ -1011,18 +999,7 @@
           ],
           "correct_answer": 4
       },
-      {
-          "id": 88,
-          "question_direction": "Nguyễn Ái Quốc viết 'Bản án chế độ thực dân Pháp' được xuất bản vào thời gian nào?",
-          "question_type": "radio",
-          "answer_option": [
-              { "id": "1", "value": "Năm 1925" },
-              { "id": "2", "value": "Năm 1920" },
-              { "id": "3", "value": "Năm 1930" },
-              { "id": "4", "value": "Năm 1927" }
-          ],
-          "correct_answer": 4
-      },
+   
       {
           "id": 89,
           "question_direction": "Tư tưởng Hồ Chí Minh về tiếp tục phát triển, hoàn thiện, soi đường cho sự nghiệp cách mạng của Đảng và nhân dân ta hình thành trong thời gian nào?",
