@@ -447,18 +447,7 @@
       ],
       "correct_answer": 4
   },
-  {
-      "id": 44,
-      "question_direction": "Điền từ còn thiếu vào chỗ trống để hoàn thành luận điểm sau được nêu trong Đại hội II của Đảng Cộng sản Việt Nam (2-1951): “Đường lối chính trị, nền nếp làm việc và …….. của Đảng ta hiện nay là đường lối, tác phong và đạo đức Hồ Chủ tịch. Toàn Đảng hãy ra sức học tập đường lối chính trị, tác phong và ………. của Hồ Chủ tịch; sự học tập ấy, là điều kiện tiên quyết làm cho Đảng mạnh và làm cho cách mạng đi mau đến thắng lợi hoàn toàn”.",
-      "question_type": "radio",
-      "answer_option": [
-          { "id": "1", "value": "Lập trường" },
-          { "id": "2", "value": "Phong cách" },
-          { "id": "3", "value": "Tư tưởng" },
-          { "id": "4", "value": "Đạo đức cách mạng" }
-      ],
-      "correct_answer": 2
-  },
+
   {
       "id": 45,
       "question_direction": "Sự kiện nào được Nguyễn Ái Quốc đánh giá “mở ra một thời đại mới, thời đại chống đế quốc, giải phóng dân tộc”?",
